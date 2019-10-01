@@ -62,5 +62,5 @@ dan buat Pull Request ke branch master
 - [@azzahrads](https://github.com/azzahrads)
 - [@mukhlisakbr](https://github.com/mukhlisakbr)
 
-## :octocat: Copied From github.com/wripolinema
+## :octocat: Copied From github.com/wrideveloper
 
