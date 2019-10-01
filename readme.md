@@ -67,5 +67,5 @@ dan buat Pull Request ke branch master
 - [@zuubii](https://github.com/zuubii)
 - [@znmn](https://github.com/znmn)
 
+=======
 ## :octocat: Copied From github.com/wrideveloper
-
