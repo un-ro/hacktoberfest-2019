@@ -58,11 +58,10 @@ git push origin my-new-branch
 dan buat Pull Request ke branch master
 
 ## :trollface: Kontributor
-- [@richoandika](https://github.com/richoandika)
 - [@ardananjungkusuma](https://github.com/ardananjungkusuma)
 - [@azzahrads](https://github.com/azzahrads)
 - [@mukhlisakbr](https://github.com/mukhlisakbr)
 - [@AnggaR96s](https://github.com/AnggaR96s)
 - [@djatikusuma](https://github.com/djatikusuma)
-
+- [@richoandika](https://github.com/richoandika)
 ## :octocat: Copied From github.com/wrideveloper
