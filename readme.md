@@ -61,6 +61,7 @@ dan buat Pull Request ke branch master
 - [@ardananjungkusuma](https://github.com/ardananjungkusuma)
 - [@azzahrads](https://github.com/azzahrads)
 - [@mukhlisakbr](https://github.com/mukhlisakbr)
+- [@djatikusuma](https://github.com/djatikusuma)
 
 ## :octocat: Copied From github.com/wrideveloper
 
