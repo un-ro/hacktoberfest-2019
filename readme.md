@@ -1,3 +1,5 @@
+![](img/hacktoberfest.png)
+
 # hacktoberfest-2019
 
 Seru seruan hacktoberfest 2019 :checkered_flag:
@@ -66,10 +68,14 @@ dan buat Pull Request ke branch master
 - [@richoandika](https://github.com/richoandika)
 - [@zuubii](https://github.com/zuubii)
 - [@corazon78](https://github.com/corazon78)
+- [@syahz](https://github.com/syahz)
 - [@yaelahnong](https://github.com/yaelahnong)
+- [@toriqahmads](https://github.com/toriqahmads)
 - [@SuryaMaulana](https://github.com/suryamaulana)
 - [@gunawankurniyaaji](https://github.com/gunawankurniyaaji)
 - [@lavinske](https://github.com/lavinske)
 - [@ghazimuharam](https://github.com/ghazimuharam)
+- [@NimeshaWeerasinghe](https://github.com/NimeshaWeerasinghe)
+- [@hattamaulana](https://github.com/hattamaulana)
 
 ## :octocat: Copied From github.com/wrideveloper
