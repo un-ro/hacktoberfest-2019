@@ -77,5 +77,6 @@ dan buat Pull Request ke branch master
 - [@ghazimuharam](https://github.com/ghazimuharam)
 - [@NimeshaWeerasinghe](https://github.com/NimeshaWeerasinghe)
 - [@hattamaulana](https://github.com/hattamaulana)
+- [@ctrndk](https://github.com/ctrndk)
 
 ## :octocat: Copied From github.com/wrideveloper
