@@ -68,6 +68,7 @@ dan buat Pull Request ke branch master
 - [@djatikusuma](https://github.com/djatikusuma)
 - [@richoandika](https://github.com/richoandika)
 - [@zuubii](https://github.com/zuubii)
+- [@evantoday](https://github.com/evantoday)
 - [@evannurr](https://github.com/evannurr)
 - [@corazon78](https://github.com/corazon78)
 - [@rizkymiff](https://github.com/rizkymiff)
