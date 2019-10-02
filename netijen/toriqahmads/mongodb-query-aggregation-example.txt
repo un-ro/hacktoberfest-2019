@@ -1,0 +1,42 @@
+[{$match: {
+    userName: 'redbull2',
+  }}, {$lookup: {
+    from: 'twitch_datas',
+    localField: 'twitchData',
+    foreignField: '_id',
+    as: 'twitch'
+  }}, {$unwind: {
+    path: '$twitch'
+  }}, {$project: {
+    followers: {$size: '$followers'},
+    userName: 1,
+    channelName: 1,
+    channelUrl: 1,
+    displayPicture: 1,
+    channelBanner: 1,
+    twitch: 1
+  }}, {$group: {
+    _id: '$_id',
+    QGStreams: {$push: '$streams'},
+    followers: {$addToSet: '$$ROOT.followers'},
+    userName: {$addToSet: '$$ROOT.userName'},
+    channelName: {$addToSet: '$$ROOT.channelName'},
+    channelUrl: {$addToSet: '$$ROOT.channelUrl'},
+    displayPicture: {$addToSet: '$$ROOT.displayPicture'},
+    channelBanner: {$addToSet: '$$ROOT.channelBanner'},
+    twitchUsername: {$addToSet: '$$ROOT.twitch.twicthUsername'}
+  }}, {$unwind: {
+    path: '$twitchUsername'
+  }}, {$unwind: {
+    path: '$userName'
+  }}, {$unwind: {
+    path: '$channelName'
+  }}, {$unwind: {
+    path: '$channelUrl'
+  }}, {$unwind: {
+    path: '$displayPicture'
+  }}, {$unwind: {
+    path: '$channelBanner'
+  }}, {$unwind: {
+    path: '$followers'
+  }}]
