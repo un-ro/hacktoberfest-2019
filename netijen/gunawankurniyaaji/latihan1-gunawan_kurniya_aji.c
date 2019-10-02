@@ -1,5 +1,5 @@
 #include <stdio.h>
 void main()
 {
-printf("hello\n ");
+printf("pokok e sederhana puooollll!");
 }
