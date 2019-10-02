@@ -69,6 +69,7 @@ dan buat Pull Request ke branch master
 - [@zuubii](https://github.com/zuubii)
 - [@corazon78](https://github.com/corazon78)
 - [@yaelahnong](https://github.com/yaelahnong)
+- [@toriqahmads](https://github.com/toriqahmads)
 - [@SuryaMaulana](https://github.com/suryamaulana)
 - [@gunawankurniyaaji](https://github.com/gunawankurniyaaji)
 - [@lavinske](https://github.com/lavinske)
