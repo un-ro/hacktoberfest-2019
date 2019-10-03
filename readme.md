@@ -86,6 +86,7 @@ dan buat Pull Request ke branch master
 - [@dicka88](https://github.com/dicka88)
 - [@ctrndk](https://github.com/ctrndk)
 - [@debbysa](https://github.com/debbysa)
+- [@edytk](https://github.com/edytk)
 - [@wishihab](https://github.com/wishihab)
 - [@naruepanart](https://github.com/naruepanart)
 
