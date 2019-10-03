@@ -87,4 +87,6 @@ dan buat Pull Request ke branch master
 - [@ctrndk](https://github.com/ctrndk)
 - [@debbysa](https://github.com/debbysa)
 - [@wishihab](https://github.com/wishihab)
-## :octocat: Copied From github.com/wrideveloper
+- [@naruepanart](https://github.com/naruepanart)
+
+## :octocat: Copied From [@wrideveloper](https://github.com/wrideveloper)
