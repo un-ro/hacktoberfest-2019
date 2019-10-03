@@ -89,5 +89,7 @@ dan buat Pull Request ke branch master
 - [@edytk](https://github.com/edytk)
 - [@wishihab](https://github.com/wishihab)
 - [@naruepanart](https://github.com/naruepanart)
+- [@diaksizz](https://github.com/diaksizz)
+
 
 ## :octocat: Copied From [@wrideveloper](https://github.com/wrideveloper)
