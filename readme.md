@@ -73,5 +73,7 @@ dan buat Pull Request ke branch master
 - [@gunawankurniyaaji](https://github.com/gunawankurniyaaji)
 - [@lavinske](https://github.com/lavinske)
 - [@hattamaulana](https://github.com/hattamaulana)
+- [@rigelr](https://github.com/rigelr)
+
 
 ## :octocat: Copied From github.com/wrideveloper
