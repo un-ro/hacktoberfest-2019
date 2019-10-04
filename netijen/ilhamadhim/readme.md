@@ -82,9 +82,6 @@ dan buat Pull Request ke branch master
 - [@ghazimuharam](https://github.com/ghazimuharam)
 - [@NimeshaWeerasinghe](https://github.com/NimeshaWeerasinghe)
 - [@hattamaulana](https://github.com/hattamaulana)
-- [@aldiwira](https://github.com/aldiwira)
-- [@rigelr](https://github.com/rigelr)
-- [@addinnt](https://github.com/addinnt)
 - [@nitindhemiwal](https://github.com/nitindhemiwal)
 - [@dicka88](https://github.com/dicka88)
 - [@ctrndk](https://github.com/ctrndk)
@@ -94,8 +91,6 @@ dan buat Pull Request ke branch master
 - [@naruepanart](https://github.com/naruepanart)
 - [@diaksizz](https://github.com/diaksizz)
 - [@geraldsamosir](https://github.com/geraldsamosir)
-- [@syifandimulyanto](https://github.com/syifandimulyanto)
-- [@egin10](https://github.com/egin10)
+
 
 ## :octocat: Copied From [@wrideveloper](https://github.com/wrideveloper)
-
