@@ -6,5 +6,5 @@ WeDefend is application based on java programming language with several features
 *Note: This application is not an antivirus, this app can't remove and detect Remote Access Trojan automatically, this app can help to against Remote Access Trojan from amateur to normal skill attackers.*
 
 
-[Original Repo](https://github.com/wishihab/WeDefend)
-[Wedefend Android](https://github.com/wishihab/WeDefend-Android)
+-[Original Repo](https://github.com/wishihab/WeDefend)
+-[Wedefend Android](https://github.com/wishihab/WeDefend-Android)
