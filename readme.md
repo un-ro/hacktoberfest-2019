@@ -96,6 +96,7 @@ dan buat Pull Request ke branch master
 - [@geraldsamosir](https://github.com/geraldsamosir)
 - [@syifandimulyanto](https://github.com/syifandimulyanto)
 - [@egin10](https://github.com/egin10)
+- [@rhaerma](https://github.com/rhaerma)
 
 ## :octocat: Copied From [@wrideveloper](https://github.com/wrideveloper)
 
