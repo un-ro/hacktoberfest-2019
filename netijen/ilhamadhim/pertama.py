@@ -1,0 +1,2 @@
+print("ini yang pertama
+")

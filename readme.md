@@ -60,6 +60,7 @@ git push origin my-new-branch
 dan buat Pull Request ke branch master
 
 ## :trollface: Kontributor
+
 - [@ardananjungkusuma](https://github.com/ardananjungkusuma)
 - [@azzahrads](https://github.com/azzahrads)
 - [@mukhlisakbr](https://github.com/mukhlisakbr)
@@ -68,6 +69,11 @@ dan buat Pull Request ke branch master
 - [@richoandika](https://github.com/richoandika)
 - [@zuubii](https://github.com/zuubii)
 - [@corazon78](https://github.com/corazon78)
+- [@znmn](https://github.com/znmn)
+- [@evantoday](https://github.com/evantoday)
+- [@evannurr](https://github.com/evannurr)
+- [@corazon78](https://github.com/corazon78)
+- [@rizkymiff](https://github.com/rizkymiff)
 - [@syahz](https://github.com/syahz)
 - [@yaelahnong](https://github.com/yaelahnong)
 - [@toriqahmads](https://github.com/toriqahmads)
@@ -77,5 +83,24 @@ dan buat Pull Request ke branch master
 - [@ghazimuharam](https://github.com/ghazimuharam)
 - [@NimeshaWeerasinghe](https://github.com/NimeshaWeerasinghe)
 - [@hattamaulana](https://github.com/hattamaulana)
+- [@aldiwira](https://github.com/aldiwira)
+- [@rigelr](https://github.com/rigelr)
+- [@addinnt](https://github.com/addinnt)
+- [@nitindhemiwal](https://github.com/nitindhemiwal)
+- [@dicka88](https://github.com/dicka88)
+- [@ctrndk](https://github.com/ctrndk)
+- [@debbysa](https://github.com/debbysa)
+- [@edytk](https://github.com/edytk)
+- [@wishihab](https://github.com/wishihab)
+- [@naruepanart](https://github.com/naruepanart)
+- [@diaksizz](https://github.com/diaksizz)
+- [@geraldsamosir](https://github.com/geraldsamosir)
+- [@syifandimulyanto](https://github.com/syifandimulyanto)
+- [@egin10](https://github.com/egin10)
+- [@sutanlab](https://github.com/sutanlab)
+- [@rhaerma](https://github.com/rhaerma)
+- [@contact-us](https://github.com/contact-us)
+- [@ilhamAdhim](https://github.com/ilhamAdhim)
+- [@chintyadewi](https://github.com/chintyadewi)
 
-## :octocat: Copied From github.com/wrideveloper
+## :octocat: Copied From [@wrideveloper](https://github.com/wrideveloper)
