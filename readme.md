@@ -68,6 +68,7 @@ dan buat Pull Request ke branch master
 - [@djatikusuma](https://github.com/djatikusuma)
 - [@richoandika](https://github.com/richoandika)
 - [@zuubii](https://github.com/zuubii)
+- [@corazon78](https://github.com/corazon78)
 - [@znmn](https://github.com/znmn)
 - [@evantoday](https://github.com/evantoday)
 - [@evannurr](https://github.com/evannurr)
@@ -102,5 +103,6 @@ dan buat Pull Request ke branch master
 - [@ilhamAdhim](https://github.com/ilhamAdhim)
 - [@chintyadewi](https://github.com/chintyadewi)
 - [@yudhst](https://github.com/yudhst)
+- [@fatik07](https://github.com/fatik07)
 
 ## :octocat: Copied From [@wrideveloper](https://github.com/wrideveloper)
