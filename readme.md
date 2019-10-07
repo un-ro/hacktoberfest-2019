@@ -102,6 +102,7 @@ dan buat Pull Request ke branch master
 - [@contact-us](https://github.com/contact-us)
 - [@ilhamAdhim](https://github.com/ilhamAdhim)
 - [@chintyadewi](https://github.com/chintyadewi)
+- [@yudhst](https://github.com/yudhst)
 - [@fatik07](https://github.com/fatik07)
 
 ## :octocat: Copied From [@wrideveloper](https://github.com/wrideveloper)
