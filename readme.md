@@ -62,7 +62,6 @@ dan buat Pull Request ke branch master
 ## :trollface: Kontributor
 
 - [@ardananjungkusuma](https://github.com/ardananjungkusuma)
-- [@wfebriad](https://github.com/wfebriad)
 - [@azzahrads](https://github.com/azzahrads)
 - [@mukhlisakbr](https://github.com/mukhlisakbr)
 - [@AnggaR96s](https://github.com/AnggaR96s)
@@ -105,5 +104,6 @@ dan buat Pull Request ke branch master
 - [@chintyadewi](https://github.com/chintyadewi)
 - [@yudhst](https://github.com/yudhst)
 - [@fatik07](https://github.com/fatik07)
+- [@wfebriad](https://github.com/wfebriad)
 
 ## :octocat: Copied From [@wrideveloper](https://github.com/wrideveloper)
