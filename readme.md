@@ -105,5 +105,6 @@ dan buat Pull Request ke branch master
 - [@yudhst](https://github.com/yudhst)
 - [@fatik07](https://github.com/fatik07)
 - [@wfebriad](https://github.com/wfebriad)
+- [@dekrayz](https://github.com/dekrayz)
 
 ## :octocat: Copied From [@wrideveloper](https://github.com/wrideveloper)
