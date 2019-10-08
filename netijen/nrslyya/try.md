@@ -1,4 +1,5 @@
 Berikut merupakan contoh source code dari inheritance, yang menggunakan extends
+PULLREQ~
 
 ![tugas](img/17.PNG)
 ![tugas](img/18.PNG)
