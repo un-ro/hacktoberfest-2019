@@ -60,6 +60,11 @@ dan buat Pull Request ke branch master
 ## :trollface: Kontributor
 - [@ardananjungkusuma](https://github.com/ardananjungkusuma)
 - [@azzahrads](https://github.com/azzahrads)
+- [@mukhlisakbr](https://github.com/mukhlisakbr)
+- [@mugiwara404](https://github.com/mugiwara404)
+- [@AnggaR96s](https://github.com/AnggaR96s)
+- [@djatikusuma](https://github.com/djatikusuma)
 
-## :octocat: Copied From github.com/wripolinema
+
+## :octocat: Copied From github.com/wrideveloper
 
