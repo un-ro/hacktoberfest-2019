@@ -1,0 +1,6 @@
+Tutorial install node JS pada windows
+1. Unduh installer yang telah disediakan untuk Windows di halaman download Node.js (https://nodejs.org/en/download/) dan klik tautan unduhan untuk Windows Installer. 
+2. Jalankan installer dan ikuti panduannya seperti menginstal aplikasi lainnya pada Windows.
+3. Untuk cek hasil instalasinya buka command prompt jalankan perintah node -v
+4. Mulai inisiasi project node js dengan perintah npm init
+5. Untuk install package menggunakan perintah npm install <nama-package>

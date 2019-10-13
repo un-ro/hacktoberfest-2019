@@ -60,7 +60,6 @@ git push origin my-new-branch
 dan buat Pull Request ke branch master
 
 ## :trollface: Kontributor
-
 - [@ardananjungkusuma](https://github.com/ardananjungkusuma)
 - [@azzahrads](https://github.com/azzahrads)
 - [@mukhlisakbr](https://github.com/mukhlisakbr)
@@ -68,6 +67,7 @@ dan buat Pull Request ke branch master
 - [@djatikusuma](https://github.com/djatikusuma)
 - [@richoandika](https://github.com/richoandika)
 - [@zuubii](https://github.com/zuubii)
+- [@corazon78](https://github.com/corazon78)
 - [@znmn](https://github.com/znmn)
 - [@evantoday](https://github.com/evantoday)
 - [@evannurr](https://github.com/evannurr)
@@ -82,6 +82,9 @@ dan buat Pull Request ke branch master
 - [@ghazimuharam](https://github.com/ghazimuharam)
 - [@NimeshaWeerasinghe](https://github.com/NimeshaWeerasinghe)
 - [@hattamaulana](https://github.com/hattamaulana)
+- [@aldiwira](https://github.com/aldiwira)
+- [@rigelr](https://github.com/rigelr)
+- [@addinnt](https://github.com/addinnt)
 - [@nitindhemiwal](https://github.com/nitindhemiwal)
 - [@dicka88](https://github.com/dicka88)
 - [@ctrndk](https://github.com/ctrndk)
@@ -90,6 +93,19 @@ dan buat Pull Request ke branch master
 - [@wishihab](https://github.com/wishihab)
 - [@naruepanart](https://github.com/naruepanart)
 - [@diaksizz](https://github.com/diaksizz)
-
+- [@geraldsamosir](https://github.com/geraldsamosir)
+- [@syifandimulyanto](https://github.com/syifandimulyanto)
+- [@egin10](https://github.com/egin10)
+- [@sutanlab](https://github.com/sutanlab)
+- [@rhaerma](https://github.com/rhaerma)
+- [@contact-us](https://github.com/contact-us)
+- [@ilhamAdhim](https://github.com/ilhamAdhim)
+- [@chintyadewi](https://github.com/chintyadewi)
+- [@yudhst](https://github.com/yudhst)
+- [@fatik07](https://github.com/fatik07)
+- [@wfebriad](https://github.com/wfebriad)
+- [@dekrayz](https://github.com/dekrayz)
+- [@hylosakai11](https://github.com/hylosakai11)
+- [@aneirfan](https://github.com/aneirfan)
 
 ## :octocat: Copied From [@wrideveloper](https://github.com/wrideveloper)
