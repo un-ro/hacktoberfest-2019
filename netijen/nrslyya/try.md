@@ -1,13 +1,6 @@
 Berikut merupakan contoh source code dari inheritance, yang menggunakan extends
 PULLREQ~
 
-![tugas](img/17.PNG)
-![tugas](img/18.PNG)
-![tugas](img/19.PNG)
-![tugas](img/20.PNG)
-![tugas](img/21.PNG)
-![tugas](img/22.PNG)
-
 link kode program : 
 
 [kode program komputer](../../src/6_Inheritance/Komputer1841720049Nurus.java)
