@@ -1,0 +1,1 @@
+print("Sederhana poll pokok e")
