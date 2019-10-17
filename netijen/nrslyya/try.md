@@ -14,3 +14,4 @@ link kode program :
 [kode program windows](../../src/6_Inheritance/Windows1841720049Nurus.java)
 
 [kode program main](../../src/6_Inheritance/Percobaan4/Inheritance2_1841720049nurus.java)
+lalalalalaaalala
