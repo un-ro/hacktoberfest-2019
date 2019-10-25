@@ -1,0 +1,44 @@
+/*PROGRAM STRUK BELANJA*/
+/*membuat struk belanja*/
+
+#include <stdio.h>
+#include <conio.h>
+#include <iostream>
+
+main ()
+{
+int jml,harga,tunai;
+float jum_byr,total,kembalian,jum_hrg;
+char produk [20];
+double tot_beli,potongan;
+
+    puts("Masukan Nama Produk = ");gets(produk);
+    printf("Masukkan Harga = ");scanf("%d",&harga);
+    printf("Masukkan Jumlah Beli = ");scanf("%d",&jml);
+    printf("======================================\n");
+    printf("\t AMIRUL Outlet \n");
+    printf("\t Medan   \n");
+    printf("======================================\n");
+    printf("Nama Produk     = %s\n",produk);
+    printf("Harga           = Rp. %d\n",harga);
+    printf("Jumlah Beli     = Rp. %d\n",jml);
+    jum_hrg = jml*harga;
+    printf("Total Pembelian = Rp. %1.1f\n",jum_hrg);
+    printf("==================================(+)\n");
+    std::cout <<"Total Pembelian Rp. "<<jum_hrg;
+    if (jum_hrg>=200000)
+        potongan= 100000;
+    printf("\n");
+    std::cout<<"besarnya potongan Rp. "<<potongan<<std::endl;
+        jum_byr = jum_hrg - potongan;
+    std::cout<<"jumlah yang harus dibayarkan Rp. "<<jum_byr;
+    printf("\n Tunai        = Rp. ");scanf("%d",&tunai);
+    printf("===================================(-)\n");
+    kembalian = tunai - jum_byr;
+    printf(" Kembalian = Rp. %1.1f \n",kembalian);
+    printf("======================================(-)\n");
+    printf("\t Terima Kasih \n");
+    printf("--------------------------------------\n");
+    printf("\t AMIRUL\n");
+    getch();
+}
