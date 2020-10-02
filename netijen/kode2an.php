@@ -1,3 +1,2 @@
 <?php
-Echo"Kode2an in Hacktoberfest";
-?>
+echo"Kode2an in Hacktoberfest";
